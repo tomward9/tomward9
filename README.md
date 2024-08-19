@@ -6,7 +6,7 @@ I am a data scientist that performs statistical analysis and builds machine lear
 
 
 ## Skills, Experience, and Interests
-- 💻 R, SQL, Power BI, DAX
+- 💻 R, SQL, Power BI, DAX, Snowflake, Adobe Target, VWO, GA4, BigQuery
 - 🌱 I’m currently learning bayesian statistical modeling and cloud computing 
 - 💬 Ask me about A/B testing 
 
