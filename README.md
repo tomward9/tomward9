@@ -1,7 +1,7 @@
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmV0MTlmam1sb2h4ZjZhNjhxNzl3aTg1MDR2NzF6eDk1Z2N3a3gzdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rM0wxzvwsv5g4/giphy.gif" width="500"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmV0MTlmam1sb2h4ZjZhNjhxNzl3aTg1MDR2NzF6eDk1Z2N3a3gzdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rM0wxzvwsv5g4/giphy.gif" width="300"/>
 
-## Hi there 👋, I'm Tom Ward
+## Hi there 👋! I'm Tom Ward.
 I am a data scientist that performs statistical analysis and builds machine learning models in R. I am passionate about harnessing the power of data to tell stories and drive business decisions. When I am not applying my skills at work, I am likely lost in the world of baseball data. Please connect with me on LinkedIn at linkedin.com/in/tom-ward-1b7956135.
 
 ## Skills and Experience
