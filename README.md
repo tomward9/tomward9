@@ -1,4 +1,4 @@
---![Data Scientist](Rplot.png)
+(Rplot.png)
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmV0MTlmam1sb2h4ZjZhNjhxNzl3aTg1MDR2NzF6eDk1Z2N3a3gzdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rM0wxzvwsv5g4/giphy.gif" width="500"/>
 
