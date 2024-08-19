@@ -2,7 +2,7 @@
 
 ### Hi there 👋, Tom Ward
 #### Data Scientist
-![Data Scientist](banner.com)
+![Data Scientist](Rplot.png)
 
 I perform statistical analysis and build machine learning models in R. I am passionate about harnessing the power of data to tell stories and drive business decisions. When I am not applying my skills at work, I am likely lost in the world of baseball data. Please connect with me on LinkedIn at linkedin.com/in/tom-ward-1b7956135.
 
