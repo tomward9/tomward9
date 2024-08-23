@@ -4,11 +4,12 @@
 # Hi there 👋! I'm Tom Ward.
 I am a data scientist that performs statistical analysis and builds machine learning models in R.  I am passionate about harnessing the power of data to tell stories and drive business decisions.  When I am not applying my skills at work, I am likely on a hike or lost in the world of baseball data ⚾.
 
-
 ## Skills, Experience, and Interests
 - 💻 R, SQL, Power BI, DAX, Snowflake, Adobe Target, VWO, GA4, BigQuery
 - 🌱 I’m currently learning bayesian statistical modeling and cloud computing 
-- 💬 Ask me about A/B testing 
+- 💬 Ask me about A/B testing
+- 📂 Check out my portfolio HERE!
+
 
 
 ## Let's connect!
