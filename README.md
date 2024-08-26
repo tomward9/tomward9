@@ -8,7 +8,7 @@ I am a data scientist that performs statistical analysis and builds machine lear
 - 💻 R, SQL, Power BI, DAX, Snowflake, Adobe Target, VWO, GA4, BigQuery
 - 🌱 I’m currently learning bayesian statistical modeling and cloud computing 
 - 💬 Ask me about A/B testing
-- 📂 Check out my portfolio HERE!
+- 📂 Check out my [PORTFOLIO HERE!](https://github.com/tomward9/portfolio)
 
 
 
