@@ -2,11 +2,11 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmV0MTlmam1sb2h4ZjZhNjhxNzl3aTg1MDR2NzF6eDk1Z2N3a3gzdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rM0wxzvwsv5g4/giphy.gif" width="300"/>
 
 # Hi there 👋! I'm Tom Ward.
-I am a data scientist that performs statistical analysis and builds machine learning models in R.  I am passionate about harnessing the power of data to tell stories and drive business decisions.  When I am not applying my skills at work, I am likely on a hike or lost in the world of baseball data ⚾.
+I am a data scientist that performs statistical analysis and builds machine learning models in Python and R.  I am passionate about harnessing the power of data to tell stories and drive business decisions.  When I am not applying my skills at work, I am likely on a hike or lost in the world of baseball data ⚾.
 
 ## Skills, Experience, and Interests
-- 💻 R, SQL, Power BI, DAX, Snowflake, Adobe Target, VWO, GA4, BigQuery
-- 🌱 I’m currently learning bayesian statistical modeling and cloud computing 
+- 💻 Python (numpy, pandas, scikit learn, pytorch), R, SQL, Databricks, Snowflake, Power BI, DAX, Adobe Target, VWO, GA4, BigQuery
+- 🌱 I’m currently learning computer vision and RNN's. 
 - 💬 Ask me about A/B testing
 - 📂 Check out my [PORTFOLIO HERE!](https://github.com/tomward9/portfolio)
 
